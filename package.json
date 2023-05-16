@@ -1,0 +1,21 @@
+{
+  "name": "sudo-webhook-node",
+  "version": "1.0.0",
+  "description": "Sudo Africa webhook example",
+  "main": "webhook.js",
+  "scripts": {
+    "start": "node webhook.js"
+  },
+  "keywords": [
+    "Sudo Africa",
+    "SafeHaven",
+    "Sudo",
+    "Root"
+  ],
+  "author": "Shamsuddeen Omacy",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2"
+  }
+}
